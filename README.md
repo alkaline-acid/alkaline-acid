@@ -45,13 +45,62 @@ I am very fortunate to be advised by [Prof. Chen Li](http://staff.ustc.edu.cn/~c
 
 ## Education
 
-* University of Science and Technology of China (USTC) 		Sep.2022-Present
+* University of Science and Technology of China (USTC) 		--Sep.2022-Present
   * Electric Engineering and Information Science
+  
+    
+## Study Experience
+* Chinese Academy of Sciences 		--Jul. 2024 - Aug. 2024
+  * Summer Camp 2024 For Outstanding Students
+  
+* Xi'an Jiaotong University		--Aug. 2024 - Sep. 2024
+  * Summer Institute 2024. Traditional Chinese Cultural
+  
+* Oriel College of Oxford University 		--Jul. 2023 - Aug. 2023
+  * Summer Institute 2023. Quantum Computing
+  
+    
 
+
+## Student Work Experience
+* School Student Alumni Public Welfare Club 		--Sep. 2023 - Present
+  * President
+  
+* Teaching assistant		--Sep. 2024 - Jan. 2025
+  * Stochastic process teaching assistant
+  
+* Class 2204 Youth League Committee		--Sep. 2023 - Present
+  * Youth League Branch Secretary
+  
+    
 
 ## Honors and Awards
- - Huawei Scholarship	<p align="right">Oct.2024</p>
- - 
+| Honors and Awards | Date |
+|--------------------|----------|
+|        Huawei Scholarship(Top 5%)        |  Oct.2024        |
+| Outstanding Student Cadre | Jun. 2024 |
+| Outstanding Core Members for Student Clubs | May.2024 |
+| USTC Fellowship Undergraduate A-Class Funding (Top 5%) | Dec.2023 |
+
+more in my CV... :relaxed:
+
+
+
+## Skills
+
+ - Programming: C/C++, Matlab, Python, Verilog, LateX, KaliOS(Linux)
+ - Software: Mathematica, Matlab, Origin, Photoshop, Quartus, Docker, Hyper-V, wireshark(Well, I don't know if this really count)
+ - Language: Chinese(Both Simplified and Traditional), English
+
+
+
+## Gallery
+
+
+
+
+
+
 
 ## Connect
 
