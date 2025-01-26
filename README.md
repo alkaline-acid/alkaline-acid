@@ -101,11 +101,11 @@ more in my CV... :relaxed:
 
 <img align="left" alt="JPG" src="./Telescope.jpg" width="400" height="300" />
 <img align="middle" alt="JPG" src="./Oxford.jpg" width="400" height="300" />
-<img align="left" alt="JPG" src="./Yixing.jpg" width="450" height="307" />
-<img align="middle" alt="JPG" src="./Qingdao.jpg" width="409" height="307" />
-<img align="left" alt="JPG" src="./Chengdu.jpg" width="307" height="409" />
-<img align="left" alt="JPG" src="./Victoria.jpg" width="307" height="409" />
-<img align="left" alt="JPG" src="./Shanghai.jpg" width="307" height="409" />  
+<img align="left" alt="JPG" src="./Yixing.jpg" width="400" height="300" />
+<img align="middle" alt="JPG" src="./Qingdao.jpg" width="400" height="300" />
+<img align="left" alt="JPG" src="./Chengdu.jpg" width="250" height="333" />
+<img align="left" alt="JPG" src="./Victoria.jpg" width="250" height="333" />
+<img align="left" alt="JPG" src="./Shanghai.jpg" width="250" height="333" />  
 <br/>
 
 
