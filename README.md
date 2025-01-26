@@ -103,6 +103,10 @@ more in my CV... :relaxed:
 <img align="left" alt="JPG" src="./Shanghai.jpg" width="307" height="409" />  
 <br/>
 
+
+
+
+
 ## Connect
 
 - [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/alkaloid-acid)[Github: alkaloid-acid](https://github.com/alkaloid-acid)
