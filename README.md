@@ -91,9 +91,14 @@ more in my CV... :relaxed:
  - Software: Mathematica, Matlab, Origin, Photoshop, Quartus, Docker, Hyper-V, wireshark(Well, I don't know if this really count)
  - Language: Chinese(Both Simplified and Traditional), English
 
+## Connect
+
+- [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/alkaloid-acid)[Github: alkaloid-acid](https://github.com/alkaloid-acid)
+- [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:xiaoyangsheep@mail.ustc.edu.cn)[Mail: xiaoyangsheep@mail.ustc.edu.cn](mailto:xiaoyangsheep@mail.ustc.edu.cn)
 
 
 ## Gallery
+
 <img align="left" alt="JPG" src="./Telescope.jpg" width="400" height="300" />
 <img align="middle" alt="JPG" src="./Oxford.jpg" width="400" height="300" />
 <img align="left" alt="JPG" src="./Yixing.jpg" width="450" height="307" />
@@ -107,10 +112,7 @@ more in my CV... :relaxed:
 
 
 
-## Connect
 
-- [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/alkaloid-acid)[Github: alkaloid-acid](https://github.com/alkaloid-acid)
-- [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:xiaoyangsheep@mail.ustc.edu.cn)[Mail: xiaoyangsheep@mail.ustc.edu.cn](mailto:xiaoyangsheep@mail.ustc.edu.cn)
 - [![Alkaline-acid's github stats](https://github-readme-stats.vercel.app/api?username=alkaline-acid&theme=dark&show_icons=false)](https://github.com/foru17)
 - ![Alkaline-acid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alkaline-acid&theme=dark)
 
