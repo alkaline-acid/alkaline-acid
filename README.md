@@ -31,7 +31,7 @@ I'm at <xiaoyangsheep@mail.ustc.edu.cn>, and I'm glad to share my resume with yo
 
 I'm a third-year undergraduate student at the [Electric Engineering and Information Science](https://eeis.ustc.edu.cn/), [University of Science and Technology of China](https://ustc.edu.cn/). My research interests include computer vision, circuit designing, machine learning, and network security. I have learned machine learning and network security by myself🎉.
 
-I am very fortunate to be advised by [Prof. Chen Li](http://staff.ustc.edu.cn/~chenli87/) of the Wireless Information Network Lab from [Electrical & Information Engineering](https://eeis.ustc.edu.cn/), University of Science and Technology of China. 
+I am very fortunate to be advised by [Prof. Chen Weidong](https://eeis.ustc.edu.cn/2025/0704/c2615a690201/page.htm) of the Wireless Information Network Lab from [Electrical & Information Engineering](https://eeis.ustc.edu.cn/), University of Science and Technology of China. 
 <img align="right" alt="GIF" src="./hello.gif" width="400" height="256" />
 - 🎓 Undergraduate student at USTC
 - ✍️ Self-learned about machine learning and network security
